@@ -1,0 +1,27 @@
+.card{
+  background-color: var(--primary-color);
+}
+
+h1{
+  color: var(--secondary-color);
+}
+
+.card-body{
+  background-color: var(--secondary-color);
+}
+
+p{
+  // text-align: center;
+  color: var(--primary-color);
+}
+
+.btn-card{
+  justify-content: center;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 1.25rem 2.5rem;
+  border: none;
+  border-radius: 5px;
+
+}
+
